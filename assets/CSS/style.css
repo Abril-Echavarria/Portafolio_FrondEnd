@@ -8,3 +8,13 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endCo
 .fa-brands.fa-linkedin.fa-2xl:hover{
     color: rgb(12, 183, 230);
 }
+
+.list-group-item{
+    background-color: aqua;
+}
+
+.banner{
+    max-width:100%;
+    background-size: 80%;
+    background-repeat: no-repeat;
+}
