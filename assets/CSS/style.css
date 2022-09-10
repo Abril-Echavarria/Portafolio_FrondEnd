@@ -1,3 +1,9 @@
+body{
+    background-color: rgb(216, 180, 249);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
 .navbar.navbar-expand-lg.bg-dark{
     background: rgb(2,0,36);
 background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(91,3,157,1) 67%, rgba(17,9,194,1) 100%);
@@ -10,11 +16,24 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endCo
 }
 
 .list-group-item{
-    background-color: aqua;
+   /* background-color: rgb(172, 237, 237);*/
+   background: rgb(0,7,147);
+background: -moz-radial-gradient(circle, rgba(0,7,147,1) 9%, rgba(91,3,157,1) 100%);
+background: -webkit-radial-gradient(circle, rgba(0,7,147,1) 9%, rgba(91,3,157,1) 100%);
+background: radial-gradient(circle, rgba(0,7,147,1) 9%, rgba(91,3,157,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000793",endColorstr="#5b039d",GradientType=1);
+    
+
+    color: aliceblue;
 }
 
-.banner{
-    max-width:100%;
-    background-size: 80%;
-    background-repeat: no-repeat;
+section.about{
+    margin-top: 5%;
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-atmosphere-real-galaxy-starry-banner-background-image_520258.jpg);
+   background-repeat: no-repeat;
+    
+}
+
+.container-fluid.text-center{
+    margin-top: 2.5%;
 }
