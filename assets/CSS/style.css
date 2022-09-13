@@ -121,6 +121,8 @@ h1.titulos{
     margin-bottom: 1%;
     color: #ebf2f8;
 
+    
+
 }
 /*
 .rounded-circle.w-50.img-fluid{
@@ -130,7 +132,7 @@ h1.titulos{
 
 h3.nombre{
     margin-top: 10%;
-    margin-left: -40%;
+    margin-left: -36%;
     color: #ebf2f8;
 }
 
@@ -154,7 +156,7 @@ section.experiencia{
 
 /*PROYECT0*/
 section.proyectos{
-    margin-left:15%;
+    
     margin-top: 0%;
 }
 
@@ -168,6 +170,18 @@ section.about{
     margin-left: 15%;
     margin-right: 10%;
 }
+/*Skills*/
+
+section.skills{
+    margin-left: 15%;
+    margin-right: 15%;
+   
+}
+
+h3.nombre-skill{
+    color: #ffffff;
+}
+
 
 
 /*Pie de pagina*/
