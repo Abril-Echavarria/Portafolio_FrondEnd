@@ -3,7 +3,6 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
     align-items: center;
-    margin-bottom: 5%;
     
 }
 
@@ -185,15 +184,27 @@ h3.nombre-skill{
 
 
 /*Pie de pagina*/
-section.pie{
+footer{
     background: rgb(2,0,36);
     background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,1,91,1) 0%, rgba(41,4,128,1) 100%);
     background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,1,91,1) 0%, rgba(41,4,128,1) 100%);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,1,91,1) 0%, rgba(41,4,128,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#290480",GradientType=1);
     width: 100%;
-    color: rgb(50, 4, 83);
+    height: 70px;
+    bottom: 0;
+    left: 0;
+    color: #ffffff;
+
+    margin-top: 2.5%;
     
+  
+    
+}
+h6.footer{
+    margin-left: 0.8rem;
+    padding: 1rem;
+    color: #8b8b8b;
 }
 
 
