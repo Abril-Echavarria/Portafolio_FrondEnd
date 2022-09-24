@@ -89,6 +89,8 @@ section.banner{
     
 }*/
 
+/*Carouse Foto mia*/
+
 .container.text-center.foto{
     position: absolute;
     margin-top: 10%;
@@ -139,6 +141,7 @@ h4.descripcion{
     text-align: left;
     margin-left: 10%;
     color: #ebf2f8;
+    margin-right: 10%;
 }
 
 h6.fecha{
@@ -263,3 +266,35 @@ h5.descripcion{
 .nav-link{
     color: #ffffff;
 }
+
+
+
+select.contacto{
+    color: #ffffff;
+}
+
+.fa-sharp.fa-solid.fa-user.fa-3x{
+    color: #ffffff;
+    margin-right:-9rem;
+    margin-top: -0.5rem;
+}
+
+.fa-sharp.fa-solid.fa-envelope.fa-3x{
+    color: #ffffff;
+    margin-right:-9rem;
+    margin-top: -0.5rem;
+}
+.fa-solid.fa-pen-to-square.fa-3x{
+    color: #ffffff;
+    margin-right:-9rem;
+    margin-top: -0.5rem;
+}
+
+.btn.btn-primary.btn-lg{
+    margin-top: 1rem;
+}
+
+.row.contacto{
+    margin-top: 3rem;
+}
+
